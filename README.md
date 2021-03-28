@@ -14,7 +14,7 @@
 npm install  
 
 запустить проект в режиме разработчика:  
-npm run serve:
+npm run serve
 
 сборка проекта:  
   npm run build
